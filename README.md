@@ -1,2 +1,7 @@
 # hello-world
-hello world project
+
+hello!
+
+I'm system engineer in Japan.
+
+I like creative things.
